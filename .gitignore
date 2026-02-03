@@ -1,0 +1,8 @@
+node_modules/
+.env
+data/
+workspace/upload_*
+*.log
+.DS_Store
+Thumbs.db
+workspace/

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(npm:*)",
+      "Bash(node:*)",
+      "Bash(gemini:*)",
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:geminicli.com)",
+      "WebFetch(domain:npmjs.com)",
+      "Bash(del \"C:\\\\Users\\\\khjan\\\\Downloads\\\\Agent - J - Gemini\\\\nul\")"
+    ]
+  }
+}

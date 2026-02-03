@@ -1,0 +1,14 @@
+{
+  "general": {
+    "checkpointing": {
+      "enabled": true
+    },
+    "sessionRetention": {
+      "enabled": true,
+      "maxAge": "7d"
+    }
+  },
+  "model": {
+    "name": "gemini-2.5-pro"
+  }
+}
